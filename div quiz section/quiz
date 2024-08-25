@@ -1,0 +1,1175 @@
+<!-- Questions and Answers
+1. 
+HTML stands for HyperText __________ Language.
+
+A.
+Mark-up
+
+
+B.
+Marker
+
+
+C.
+Markup
+
+
+D.
+Marking
+
+Correct Answer
+C. Markup
+Explanation
+HTML stands for HyperText Markup Language. It is a standard markup language used for creating web pages and web applications. Markup refers to the process of adding tags to text in order to define its structure and presentation on a webpage. Therefore, the correct answer is Markup.
+Rate this question:
+
+ 2. 
+A markup language is a set of interpretation to text that describes how it is to be structured, laid out or formatted.
+
+A.
+True
+
+
+B.
+False
+
+Correct Answer
+A. True
+Explanation
+The given statement accurately describes a markup language. Markup languages provide instructions on how to structure, layout, or format text. They are used to define elements and tags that give meaning to the content and allow it to be displayed or rendered in a specific way. Therefore, the correct answer is true.
+Rate this question:
+
+ 3. 
+Texts that are enclosed on a <title> tag are all displayed in which part of the browser?
+
+A.
+Title Bar
+
+
+B.
+Tab
+
+
+C.
+Menu Bar
+
+
+D.
+Tool Bar
+
+Correct Answer
+A. Title Bar
+Explanation
+Texts that are enclosed in a tag are displayed in the Title Bar of the browser. The Title Bar is located at the top of the browser window and typically displays the title of the webpage being viewed.
+Rate this question:
+
+ 4. 
+__________ is software that displays web pages and allows you to interact with text, images, music, video and other resources found on a website on the World Wide Web.
+
+A.
+Device Driver
+
+
+B.
+Web Browser
+
+
+C.
+Operating System
+
+
+D.
+Computer Aided Instruction
+
+Correct Answer
+B. Web Browser
+Explanation
+A web browser is software that allows users to access and view web pages on the internet. It enables users to interact with various elements such as text, images, videos, and music found on websites. Web browsers provide a graphical user interface that makes it easy for users to navigate through different web pages and access the information they need. Some popular web browsers include Google Chrome, Mozilla Firefox, and Microsoft Edge.
+Rate this question:
+
+ 5. 
+This is where you could create an HTML document.
+
+A.
+VBA
+
+
+B.
+VisiCalc
+
+
+C.
+MS Word
+
+
+D.
+Notepad
+
+Correct Answer
+D. Notepad
+Explanation
+Notepad is a simple text editor that allows users to create and edit HTML documents. It does not have any advanced features or formatting options like MS Word, but it is commonly used for basic HTML coding as it provides a clean and straightforward interface. VBA and VisiCalc are programming languages and spreadsheet software respectively, which are not specifically designed for creating HTML documents. Therefore, Notepad is the most suitable option for creating an HTML document among the given choices.
+Rate this question:
+
+ 6. 
+These are the basic units or building blocks of an HTML file.
+
+A.
+Tag
+
+
+B.
+HTTP
+
+
+C.
+Value
+
+
+D.
+Attribute
+
+Correct Answer
+A. Tag
+Explanation
+Tags are the basic units or building blocks of an HTML file. They are used to define the structure and content of a webpage. Tags are enclosed in angle brackets and can be used to define headings, paragraphs, links, images, and other elements on a webpage. They provide instructions to the web browser on how to render and display the content.
+Rate this question:
+
+ 7. 
+Tags that can stand alone are called…
+
+A.
+Empty Tag
+
+
+B.
+Markup Tag
+
+
+C.
+Container Tag
+
+
+D.
+Standalone Tag
+
+Correct Answer
+A. Empty Tag
+Explanation
+Empty tags are HTML tags that do not require a closing tag. They are used to insert elements into a webpage without any content. Examples of empty tags include the line break tag , the image tag , and the input tag . These tags are standalone and do not need any additional information. They are used to add structure or functionality to a webpage without displaying any visible content.
+Rate this question:
+
+ 8. 
+Tags that cannot stand alone are called…
+
+A.
+Empty Tag
+
+
+B.
+Markup Tag
+
+
+C.
+Container Tag
+
+
+D.
+Standalone Tag
+
+Correct Answer
+C. Container Tag
+Explanation
+Container tags are tags that have an opening tag and a closing tag, and they can contain other tags and content between them. They are used to group and organize elements within a webpage. In HTML, container tags are represented by pairs of angle brackets, such as and . They are called "container" tags because they create a container or a block around the elements they enclose. This allows for better structuring and styling of the content within the container.
+Rate this question:
+
+ 9. 
+__________ are used to provide additional information about the tag and go in name-value pairs separated by an equal sign =
+
+A.
+HTTP
+
+
+B.
+Value
+
+
+C.
+Tag
+
+
+D.
+Attribute
+
+Correct Answer
+D. Attribute
+Explanation
+Attributes are used to provide additional information about the tag and go in name-value pairs separated by an equal sign. They are used in HTML and other markup languages to modify the behavior or appearance of an element. By specifying attributes, we can add functionality or define characteristics for a specific tag. For example, the "src" attribute in the tag specifies the source URL of an image to be displayed on a webpage.
+Rate this question:
+
+ 10. 
+__________ are assigned property to an attribute.
+
+A.
+HTTP
+
+
+B.
+Value
+
+
+C.
+Tag
+
+
+D.
+Attribute
+
+Correct Answer
+B. Value
+Explanation
+Values are assigned to an attribute.
+Rate this question:
+
+ 11. 
+HTML files are divided into 2 parts: the head and the __________.
+
+A.
+Attribute
+
+
+B.
+Body
+
+
+C.
+Title
+
+
+D.
+HTML
+
+Correct Answer
+B. Body
+Explanation
+HTML files are divided into two parts: the head and the body. The head section contains meta-information about the document, such as the title, while the body section contains the actual content of the webpage. The body is where all the visible elements of the webpage, such as text, images, and links, are placed.
+Rate this question:
+
+ 12. 
+Everything that appears on your webpage may it be texts, images, videos and others should then be put on the body which is enclosed in…
+
+A.
+Head
+
+
+B.
+Title
+
+
+C.
+Body
+
+
+D.
+Html
+
+Correct Answer
+C. Body
+Explanation
+The correct answer is "body" because the body tag is used to enclose all the content that appears on a webpage, including texts, images, videos, and others. It is an essential part of the HTML structure and is responsible for displaying the visible content to the users. The body tag is placed within the HTML tags and is where the main content of the webpage is placed.
+Rate this question:
+
+ 13. 
+__________ tag inside the head tag is used to denote the title of the webpage and display the title of the webpage on the title bar.
+
+A.
+Head
+
+
+B.
+Title
+
+
+C.
+Body
+
+
+D.
+Html
+
+Correct Answer
+B. Title
+Explanation
+The title tag inside the head tag is used to denote the title of the webpage and display the title of the webpage on the title bar. This is important for search engine optimization and for providing a clear and concise description of the webpage's content to users. The title tag is also displayed in the browser's tab, making it easy for users to identify and navigate between multiple open tabs.
+Rate this question:
+
+ 14. 
+This attribute can be used under the declaration of the <body> tag if you want to add a background image on the web page.
+
+A.
+Background
+
+
+B.
+Bgcolor
+
+
+C.
+Text
+
+
+D.
+Link
+
+Correct Answer
+A. Background
+Explanation
+The attribute "Background" can be used under the declaration of the tag if you want to add a background image on the web page.
+Rate this question:
+
+ 15. 
+This attribute can be used under the declaration of the <body> tag if you want to customize the background color of your webpage.
+
+A.
+Background
+
+
+B.
+Bgcolor
+
+
+C.
+Text
+
+
+D.
+Link
+
+Correct Answer
+B. Bgcolor
+Explanation
+The attribute "bgcolor" can be used under the declaration of the tag if you want to customize the background color of your webpage.
+Rate this question:
+
+ 16. 
+This attribute can be used under the declaration of the <body> tag if you want to change the color of all the hyperlinks in the webpage
+
+A.
+Background
+
+
+B.
+Bgcolor
+
+
+C.
+Text
+
+
+D.
+Link
+
+Correct Answer
+C. Text
+Explanation
+The "Text" attribute can be used under the declaration of the tag if you want to change the color of all the hyperlinks in the webpage.
+Rate this question:
+
+ 17. 
+This attribute can be used under the declaration of the <body> tag if you want to change the color of the hyperlinks in the webpage.
+
+A.
+Background
+
+
+B.
+Bgcolor
+
+
+C.
+Text
+
+
+D.
+Link
+
+Correct Answer
+D. Link
+Explanation
+The correct answer is "Link". This attribute is used to change the color of hyperlinks on a webpage when placed under the declaration of the tag.
+Rate this question:
+
+ 18. 
+This attribute indicates the color of the visited hyperlinks in the web page.
+
+A.
+Link
+
+
+B.
+Alink
+
+
+C.
+Vlink
+
+
+D.
+Xlink
+
+Correct Answer
+C. Vlink
+Explanation
+The "Vlink" attribute is used to indicate the color of visited hyperlinks in a web page. This means that after a user has clicked on a hyperlink and visited the linked page, the color of that hyperlink will change to the specified color. This attribute helps users to easily identify which links they have already visited, enhancing their browsing experience.
+Rate this question:
+
+ 19. 
+This attribute indicates the color of the active hyperlinks (when clicked) in the web page.
+
+A.
+Link
+
+
+B.
+Alink
+
+
+C.
+Vlink
+
+
+D.
+Xlink
+
+Correct Answer
+B. Alink
+Explanation
+The attribute "Alink" indicates the color of the active hyperlinks on a web page, specifically when they are clicked.
+Rate this question:
+
+ 20. 
+Headings contains ____ levels.
+
+A.
+2
+
+
+B.
+4
+
+
+C.
+6
+
+
+D.
+8
+
+Correct Answer
+C. 6
+Explanation
+The question is asking how many levels headings contain. The correct answer is 6, indicating that headings have six levels. This means that a document or webpage can have headings ranging from level 1 to level 6, with level 1 being the most important and level 6 being the least important.
+Rate this question:
+
+ 21. 
+Which among the heading levels got the smallest size?
+
+A.
+H1
+
+
+B.
+H3
+
+
+C.
+H5
+
+
+D.
+H6
+
+Correct Answer
+D. H6
+Explanation
+The heading levels in HTML are denoted by the "h" tag followed by a number from 1 to 6, with h1 being the largest and h6 being the smallest. Therefore, h6 is the correct answer as it represents the smallest heading size.
+Rate this question:
+
+ 22. 
+Which among the heading levels got the biggest size?
+
+A.
+H1
+
+
+B.
+H3
+
+
+C.
+H5
+
+
+D.
+H6
+
+Correct Answer
+A. H1
+Explanation
+The heading level h1 typically has the largest font size compared to the other heading levels (h3, h5, and h6). This is because h1 is generally used for the main title or heading of a webpage, and it is designed to stand out and grab the reader's attention. On the other hand, the heading levels h3, h5, and h6 are typically used for subheadings or lower-level headings, so they usually have smaller font sizes to indicate their hierarchy.
+Rate this question:
+
+ 23. 
+This attribute indicates the alignment of the text.
+
+A.
+Align
+
+
+B.
+Left
+
+
+C.
+Center
+
+
+D.
+Right
+
+Correct Answer
+A. Align
+Explanation
+This attribute, "Align," is used to determine the alignment of the text. It can be set to different values such as "Left," "Center," or "Right," which will determine whether the text is aligned to the left, center, or right side of the page or container. This attribute is commonly used in HTML and CSS to control the layout and presentation of text on a webpage.
+Rate this question:
+
+ 24. 
+This tag is used to create paragraphs.
+
+A.
+Hr
+
+
+B.
+P
+
+
+C.
+Ol
+
+
+D.
+Br
+
+Correct Answer
+B. P
+Explanation
+The correct answer is "p". The "p" tag is used to create paragraphs in HTML. It is an opening tag that indicates the beginning of a paragraph, and it is typically followed by a closing tag to indicate the end of the paragraph.
+Rate this question:
+
+ 25. 
+You can place quotes in indented form and shrink them to be apart from the main paragraph by using the tag <blockquote>
+
+A.
+True
+
+
+B.
+False
+
+Correct Answer
+A. True
+Explanation
+The explanation for the given correct answer, which is "True," is not available.
+Rate this question:
+
+ 26. 
+This tag creates a line break or a new line.
+
+A.
+Hr
+
+
+B.
+P
+
+
+C.
+Ol
+
+
+D.
+Br
+
+Correct Answer
+D. Br
+Explanation
+The "br" tag is used to create a line break or a new line in HTML. It is a self-closing tag, meaning it does not require a closing tag. In this case, the "br" tag is the correct answer because it is the tag specifically mentioned in the question as the one that creates a line break or a new line. The other tags mentioned (hr, p, and ol) do not serve the same purpose as the "br" tag.
+Rate this question:
+
+ 27. 
+<br> tag can stand alone. Therefore, <br> tag is a…
+
+A.
+Empty Tag
+
+
+B.
+Markup Tag
+
+
+C.
+Container Tag
+
+
+D.
+Standalone Tag
+
+Correct Answer
+A. Empty Tag
+Explanation
+The given correct answer is "Empty Tag" because the tag does not require a closing tag and is used to create a line break in HTML. It is considered an empty tag because it does not contain any content or attributes and simply represents a line break in the markup language.
+Rate this question:
+
+ 28. 
+This tag is used if you don’t want to combine the text on the next line.
+
+A.
+Hr
+
+
+B.
+Nobr
+
+
+C.
+Ol
+
+
+D.
+Br
+
+Correct Answer
+B. Nobr
+Explanation
+The correct answer is "nobr". The "nobr" tag is used in HTML to prevent line breaks within a specific section of text. It is useful when you want to ensure that a certain text or phrase remains on the same line, without being broken into multiple lines.
+Rate this question:
+
+ 29. 
+If you don’t want to include the shading of the horizontal rule, use the noshade attribute.
+
+A.
+True
+
+
+B.
+False
+
+Correct Answer
+A. True
+Explanation
+The correct answer is "True" because the statement is providing an option to not include the shading of the horizontal rule by using the "noshade" attribute.
+Rate this question:
+
+ 30. 
+This tag allows you to underline headlines or add a borderline.
+
+A.
+Br
+
+
+B.
+Nobr
+
+
+C.
+Ol
+
+
+D.
+Hr
+
+Correct Answer
+A. Br
+Explanation
+This answer is correct because the "br" tag in HTML is used to create line breaks or new lines within a text. It is commonly used to separate paragraphs or add spacing between lines of text. The other options mentioned in the question (nobr, ol, hr) are not used for underlining headlines or adding borders, so they are incorrect.
+Rate this question:
+
+ 31. 
+This tag is used to create an ordered list.
+
+A.
+Hr
+
+
+B.
+Nobr
+
+
+C.
+Ol
+
+
+D.
+Br
+
+Correct Answer
+C. Ol
+Explanation
+The correct answer is "ol". The "ol" tag is used to create an ordered list in HTML. It is used to display a list of items in a numbered format, where each item is automatically assigned a number.
+Rate this question:
+
+ 32. 
+It is a requirement that you declare what type of tag in the <ol> tag for the declaration of the list?
+
+A.
+Dl
+
+
+B.
+Li
+
+
+C.
+Ul
+
+
+D.
+Dt
+
+Correct Answer
+B. Li
+Explanation
+The correct answer is "li" because in the tag, the "li" tag is used to declare each item in the ordered list. The "li" tag stands for "list item" and is used to create a bullet point or numbered list item within the ordered list.
+Rate this question:
+
+ 33. 
+This attribute is used to indicate the type of numbering to be used in the list (ex., 1, a, A, i, I)
+
+A.
+Type
+
+
+B.
+Start
+
+
+C.
+Id
+
+
+D.
+Class
+
+Correct Answer
+A. Type
+Explanation
+The attribute "Type" is used to indicate the type of numbering to be used in a list. It allows the user to specify the format of the list items, such as using numbers (1, 2, 3), lowercase letters (a, b, c), uppercase letters (A, B, C), lowercase Roman numerals (i, ii, iii), or uppercase Roman numerals (I, II, III). This attribute is important for structuring and organizing content in a logical and visually appealing manner.
+Rate this question:
+
+ 34. 
+This attribute indicates the value or number of the first item in the list.
+
+A.
+Type
+
+
+B.
+Start
+
+
+C.
+Id
+
+
+D.
+Class
+
+Correct Answer
+B. Start
+Explanation
+The attribute "Start" indicates the value or number of the first item in the list. This means that when creating a numbered list, the "Start" attribute can be used to specify the starting number for the list items. For example, if the "Start" attribute is set to 3, the first item in the list will be numbered as 3. This attribute is useful when you want to continue a numbered list from a specific number rather than starting from 1.
+Rate this question:
+
+ 35. 
+This type of list enumerates each item in a bulleted form.
+
+A.
+Dl
+
+
+B.
+Li
+
+
+C.
+Ul
+
+
+D.
+Dt
+
+Correct Answer
+C. Ul
+Explanation
+This type of list is known as an unordered list (ul). In an unordered list, each item is displayed with a bullet point in front of it.
+Rate this question:
+
+ 36. 
+Glossary list or definition list is an effective tool for making your own “definition of terms” list or glossary. The type of list uses the container tag _________.
+
+A.
+Dd
+
+
+B.
+Dt
+
+
+C.
+Dl
+
+
+D.
+!-- --
+
+Correct Answer
+C. Dl
+Explanation
+A glossary list or definition list is an effective tool for creating a list of terms and their definitions. In HTML, this type of list is created using the container tag "dl" (definition list). The "dl" tag is used to enclose a series of term and definition pairs. Each term is represented by the "dt" tag (definition term), and each definition is represented by the "dd" tag (definition description). This structure allows for easy organization and presentation of terms and their corresponding definitions.
+Rate this question:
+
+ 37. 
+Definition list <dl> uses the empty tag  _____ for the item itself.
+
+A.
+Dd
+
+
+B.
+Dt
+
+
+C.
+Dl
+
+
+D.
+!-- --
+
+Correct Answer
+B. Dt
+Explanation
+A definition list <dl> uses the empty tag <dt> for the item itself. The <dt> tag is used to define the term or name in the list, while the <dd> tag is used to provide the description or definition of the term.
+Rate this question:
+
+ 38. 
+Definition list <dl> uses the empty tag <dt> for the item itself and _____ for the definition of the item.
+
+A.
+Dd
+
+
+B.
+Dt
+
+
+C.
+Dl
+
+
+D.
+!-- --
+
+Correct Answer
+A. Dd
+Explanation
+In a definition list, the empty tag is used to represent the item itself, while the tag is used to represent the definition of the item. The tag is used to provide a description or explanation of the term or item defined by the tag.
+Rate this question:
+
+ 39. 
+Comments can be used to put significant statements and/or remarks that you do not want to be displayed. Comment tag is a container tag that uses __________.
+
+A.
+Dd
+
+
+B.
+Dt
+
+
+C.
+Dl
+
+
+D.
+!-- --
+
+Correct Answer
+D. !-- --
+Explanation
+The given question is asking for the container tag that is used for comments in HTML. The correct answer is "!-- --". This is the syntax for creating comments in HTML. Anything written between is treated as a comment and is not displayed on the webpage.
+Rate this question:
+
+ 40. 
+In formatting texts, _________ is the term used to define the appearance and arrangement of the characters that make up your text.
+
+A.
+Font
+
+
+B.
+Type style
+
+
+C.
+Typeface
+
+
+D.
+Typography
+
+Correct Answer
+D. TypograpHy
+Explanation
+Typography is the term used to define the appearance and arrangement of the characters that make up your text. It encompasses various elements such as font, type style, and typeface. Typography plays a crucial role in enhancing readability and conveying the intended message effectively. It involves selecting appropriate fonts, sizes, spacing, and formatting techniques to create visually appealing and cohesive text designs.
+Rate this question:
+
+ 41. 
+It is the actual appearance of the text.
+
+A.
+Font
+
+
+B.
+Type style
+
+
+C.
+Typeface
+
+
+D.
+Typography
+
+Correct Answer
+C. Typeface
+Explanation
+The term "typeface" refers to the overall design and style of a set of characters, including letters, numbers, and symbols. It encompasses the visual elements such as the shape, size, and weight of the characters. Typeface is different from font, which refers to a specific variation or style within a typeface. Typography, on the other hand, is the art and technique of arranging type in a visually appealing and readable manner. Therefore, the correct answer for this question is "typeface" as it specifically refers to the actual appearance of the text.
+Rate this question:
+
+ 42. 
+This is the variations given to the text such as boldface, italic, regular, etc.
+
+A.
+Font
+
+
+B.
+Type style
+
+
+C.
+Typeface
+
+
+D.
+Typography
+
+Correct Answer
+B. Type style
+Explanation
+The given variations such as boldface, italic, regular, etc. are collectively referred to as type styles. Type style refers to the specific design characteristics applied to a typeface, such as the weight, slant, or decoration. It helps to distinguish and emphasize different parts of the text, making it visually appealing and easier to read. Typeface, font, and typography are related terms, but they refer to broader aspects of type design and usage.
+Rate this question:
+
+ 43. 
+What tag will be used to display this kind of text?
+
+A.
+B
+
+
+B.
+I
+
+
+C.
+U
+
+
+D.
+Strike
+
+Correct Answer
+D. Strike
+Explanation
+The "strike" tag is used to display text with a strikethrough effect. This is commonly used to indicate that the text has been deleted or is no longer valid.
+Rate this question:
+
+ 44. 
+What tag will be used to display this kind of text?
+
+A.
+B
+
+
+B.
+I
+
+
+C.
+U
+
+
+D.
+Strike
+
+Correct Answer
+B. I
+Explanation
+The "i" tag will be used to display this kind of text. The "i" tag is used to define a part of the text that is in an alternate voice or mood, or to mark text that is in a different language or represents a technical term.
+Rate this question:
+
+ 45. 
+What tag will be used to display this kind of text?
+
+A.
+B
+
+
+B.
+I
+
+
+C.
+U
+
+
+D.
+Strike
+
+Correct Answer
+A. B
+Explanation
+The "b" tag is used to display bold text.
+Rate this question:
+
+ 46. 
+What tag will be used to display this kind of text?
+
+A.
+B
+
+
+B.
+I
+
+
+C.
+U
+
+
+D.
+Strike
+
+Correct Answer
+C. U
+Explanation
+The "u" tag will be used to display this kind of text. The "u" tag is used to underline text in HTML.
+Rate this question:
+
+ 47. 
+ It is the combination of the typeface and type style.
+
+A.
+Font
+
+
+B.
+Type style
+
+
+C.
+Typeface
+
+
+D.
+Typography
+
+Correct Answer
+A. Font
+Explanation
+The term "font" refers to the combination of the typeface and type style. A typeface is the design of the characters, such as Arial or Times New Roman, while the type style refers to variations within the typeface, such as bold or italic. Therefore, when we talk about a font, we are referring to a specific combination of typeface and type style that is used to display text.
+Rate this question:
+
+ 48. 
+What tag will be used to add image on the web page?
+
+A.
+Img
+
+
+B.
+A
+
+
+C.
+Src
+
+
+D.
+Href
+
+Correct Answer
+A. Img
+Explanation
+The correct answer is "Img" because the "Img" tag is used to add an image on a web page. This tag is a self-closing tag, meaning it does not require a closing tag. The "Img" tag is used in conjunction with the "src" attribute, which specifies the source or location of the image file. By using the "Img" tag with the appropriate "src" attribute, the image can be displayed on the web page.
+Rate this question:
+
+ 49. 
+What tag will be used to create a hyperlink?
+
+A.
+Img
+
+
+B.
+A
+
+
+C.
+Src
+
+
+D.
+Href
+
+Correct Answer
+B. A
+Explanation
+The correct answer is "A". In HTML, the tag used to create a hyperlink is the "a" tag, which stands for anchor. The "a" tag is used with the "href" attribute to specify the URL or destination of the hyperlink.
+Rate this question:
+
+ 50. 
+Href attribute stands for…
+
+A.
+Hyperlink reference
+
+
+B.
+Hyperlink referral
+
+
+C.
+Hyperlink
+
+
+D.
+Hyperlink referencing
+
+Correct Answer
+A. Hyperlink reference
+Explanation
+The href attribute in HTML stands for "Hyperlink reference". It is used to specify the URL or the location of the resource that the hyperlink should link to. The href attribute is an essential part of the anchor tag () and is used to create clickable links on web pages. By providing the href attribute with a valid URL, it allows users to navigate -->
